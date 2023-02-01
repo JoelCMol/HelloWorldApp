@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="my_intro">Hello World! My name is Joel I\'m 29 years old and I have a dog named Panda</string>
+    <string name="button_text">Say Hello</string>
+</resources>
