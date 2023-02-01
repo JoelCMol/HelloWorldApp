@@ -23,7 +23,7 @@ An additional feature that I would like to introduce is, when a button is presse
 
 Here's a walkthrough of implemented features:
 
-<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='100' height='250 alt='Video Walkthrough' />
 
 GIF created with Kap
 
